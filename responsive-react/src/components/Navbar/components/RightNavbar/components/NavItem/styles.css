@@ -1,0 +1,12 @@
+ a {
+    text-decoration: none;
+    color: #707070;
+    font-weight: 700;
+    padding: 0.25em 0;
+    
+  }
+  
+  li {
+    margin-left: 2em;
+    padding: 1em;
+  }
